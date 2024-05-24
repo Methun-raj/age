@@ -1,0 +1,10 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+#include<stdbool.h>
+
+int main() {
+  int myAge=21;
+  int myBroage=18;
+  printf("%d",myAge>=myBroage);
+    return 0;
+}
